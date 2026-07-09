@@ -10,7 +10,7 @@ REPO_URL="https://github.com/Anatdx/HymoFS"
 BRANCH="main"
 MANUAL_BRANCH=false
 
-KERNEL_DIR=""
+KERNEL_DIR="$KERNEL_ROOT"
 DEFCONFIG_PATH=""
 
 function show_help {
